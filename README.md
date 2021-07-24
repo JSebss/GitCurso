@@ -6,6 +6,6 @@ Lista enumerada
 3. Elemento 3
 
 Lista sin enumerar
-- Elemento 1
-- Elemento 2
-- Elemento 3
++ Elemento 1
++ Elemento 2
++ Elemento 3
